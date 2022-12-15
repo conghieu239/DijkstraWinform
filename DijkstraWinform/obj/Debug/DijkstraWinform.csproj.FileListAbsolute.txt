@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\bin\Debug\DijkstraWinform.exe.config
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\bin\Debug\DijkstraWinform.exe
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\bin\Debug\DijkstraWinform.pdb
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\obj\Debug\DijkstraWinform.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\obj\Debug\DijkstraWinform.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\obj\Debug\DijkstraWinform.Form1.resources
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\obj\Debug\DijkstraWinform.Properties.Resources.resources
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\obj\Debug\DijkstraWinform.csproj.GenerateResource.cache
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\obj\Debug\DijkstraWinform.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\obj\Debug\DijkstraWinform.exe
+\\Mac\Home\Documents\C# WIN\DijkstraWinform\DijkstraWinform\obj\Debug\DijkstraWinform.pdb
